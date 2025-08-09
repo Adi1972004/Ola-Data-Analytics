@@ -95,12 +95,14 @@ The SQL scripts create **views** and queries to answer 10 business questions:
 ---
 
 ## 📂 Project Structure
+
 Ola-Data-Analytics/
 │
-├── Ola_SQL_query.sql # SQL queries and views
-├── Ola_PowerBI_Dashboard.pdf # Dashboard snapshots
-├── OLA-Data-Analyst-Project.pdf # Full project description and insights
-└── README.md # Project documentation
+├── Ola_SQL_query.sql             # SQL queries and views for data analysis  
+├── Ola_PowerBI_Dashboard.pdf     # Power BI dashboard snapshot/report  
+├── OLA-Data-Analyst-Project.pdf  # Full project description and detailed insights  
+└── README.md                     # Project documentation  
+
 
 
 ---
